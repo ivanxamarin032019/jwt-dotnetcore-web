@@ -1,2 +1,5 @@
 # jwt-dotnetcore-web
 ![1](https://user-images.githubusercontent.com/39761148/140698293-ac5f2fb7-f600-4890-8de2-b6d193962f4e.png)
+
+En este tutorial, configuraremos un JWT (token web JSON) en una API web ASP.NET Core, implementando la autenticación y la autorización. Hablaremos sobre por qué es importante que su ASP.NET Core Web API requiera autenticación con JWT. Desde la configuración del proyecto hasta la prueba de todo este proceso con Postman, al final de este tutorial tendrá una buena idea de cómo configurar la autenticación y la autorización en sus aplicaciones .NET Core con JWT. La autenticación con JWT es una de las formas más seguras y de mayor rendimiento para proteger las transferencias de datos entre el cliente y el servidor. No solo configuraremos la autenticación en nuestra API web de ASP.NET Core, sino que también abordaremos la autorización y cómo los diferentes roles de seguridad del usuario pueden acceder a recursos específicos.. https://www.youtube.com/watch?v=kM1fPt1BcLc
+
